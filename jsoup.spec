@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           jsoup
 Version:        1.7.2
-Release:        4.2
+Release:        4.3
 Summary:        Java library for working with real-world HTML
 Group:		Development/Java
 
