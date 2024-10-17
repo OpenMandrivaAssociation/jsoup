@@ -7,7 +7,7 @@ Group:		Development/Java
 
 License:        MIT
 
-URL:            http://%{name}.org/
+URL:            https://%{name}.org/
 
 # https://github.com/jhy/jsoup/archive/jsoup-1.7.2.tar.gz
 Source0:        jsoup-jsoup-1.7.2.tar.gz
