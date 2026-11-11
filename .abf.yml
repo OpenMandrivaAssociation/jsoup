@@ -2,3 +2,4 @@ removed_sources:
   jsoup-1.19.1.tar.gz: cfc15ee18444755139a29561ccc7e7bfc9070519
 sources:
   jsoup-1.24.1.tar.gz: eb1379c60d7ade5f171876a9e8cad60c9c968760
+  jsoup-1.23.2.tar.gz: 03b897a4f50f75afeaf3999ff1d41fec8e858754
